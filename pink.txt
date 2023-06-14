@@ -1,3 +1,8 @@
 hello pinki.
+<<<<<<< HEAD
 
 welcome to devops.
+=======
+ welcome to devops.
+  new-branch.
+>>>>>>> feature1
